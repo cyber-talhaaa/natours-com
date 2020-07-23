@@ -1,0 +1,17 @@
+{
+    "name": "first",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "sass": "node-sass scss/main.scss css/style.css -w"
+    },
+    "author": "Talha",
+    "license": "ISC",
+    "devDependencies": {
+        "node-sass": "^4.13.1"
+    },
+    "dependencies": {
+        "concat": "^1.0.3"
+    }
+}
